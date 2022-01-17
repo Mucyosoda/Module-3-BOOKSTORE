@@ -1,10 +1,18 @@
-# Getting Started with Create React App
+# Book store
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project will lay foundations for the Bookstore website.
+React and Redux app was built and set up routing using React Router.
+the project built-in :
 
-## Book store
+React
+Redux
+webpack
+babelrc
+linter
 
-In the project directory, you can run:
+## Live Demo
+
+[link to Bookstore](https://relaxed-bartik-b47c93.netlify.app/)
 
 ### `npm start`
 
