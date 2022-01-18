@@ -25,13 +25,13 @@ clone the repo: git clone git@github.com:https://github.com/Mucyosoda/Module-3-B
 jump to the active branch: git checkout initialize-bookstore
 
 # Install
-in the terminal, run: npm installor npm i
+- in the terminal, run: npm installor npm i
 # Usage
-now run npm startto start the app
+- now run npm start to start the app
 # Run tests
-Author only
+- Author only
 # Deployment
-This project was deployed on Netlify 
+- This project was deployed on Netlify 
 
 ## Authors
 
