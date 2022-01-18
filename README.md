@@ -20,18 +20,18 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 npm/yarn installed
 
-### Setup
-clone the repo: git clone git@github.com:Marcraphael12/Marc-the-magician.git
-jump to the active branch: git checkout setup-react
-### Install
-in the terminal, run: npm installor npm i
-### Usage
-now run npm startto start the app
-### Run tests
-Author only
-### Deployment
-This project was deployed on Netlify 
+### Setup-react
+clone the repo: git clone git@github.com:https://github.com/Mucyosoda/Module-3-BOOKSTORE.git
+jump to the active branch: git checkout initialize-bookstore
 
+# Install
+in the terminal, run: npm installor npm i
+# Usage
+now run npm startto start the app
+# Run tests
+Author only
+# Deployment
+This project was deployed on Netlify 
 
 ## Authors
 
