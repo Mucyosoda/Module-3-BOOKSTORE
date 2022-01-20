@@ -1,5 +1,9 @@
-function Categories() {
-  return <h2>Under Construction</h2>;
-}
+import React from 'react';
 
-export default Categories;
+const Categoriessec = () => (
+  <>
+    <p className="text">Still Under Construction</p>
+  </>
+);
+
+export default Categoriessec;

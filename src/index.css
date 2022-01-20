@@ -1,15 +1,5 @@
-body {
-  text-align: center;
-}
-
-.nav-link {
-  font-size: 22px;
-  margin-left: 20px;
-  text-align: center;
-}
-
-#navlinks {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
