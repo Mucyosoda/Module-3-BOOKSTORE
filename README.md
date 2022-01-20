@@ -12,6 +12,12 @@ babelrc
 linter
 
 > ![screenshoot](./Appscreenshoot.PNG)
+
+## Live Demo
+
+[link to bookstore](add-remove-bookstore.netlify.app)
+
+
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
