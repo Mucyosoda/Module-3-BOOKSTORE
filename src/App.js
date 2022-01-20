@@ -1,12 +1,30 @@
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import Books from './components/Books/Books';
+import Categories from './components/Categories/Categories';
+import Header, { Categoriesa } from './components/Header';
+import Form from './components/Books/Form';
 
-function App() {
-  return (
-    <div className="App">
-      <h1>Hello</h1>
-    </div>
-  );
-}
+const App = () => (
+  <Router>
+    <Header />
+    <Categoriesa />
+    <Switch>
+      <Route path="/" exact key="/">
+        <Books />
+        <Form />
+      </Route>
+      {' '}
+      <Route path="/categories" exact key="/categories">
+        {' '}
+        <Categories />
+        {' '}
+      </Route>
+      {' '}
+    </Switch>
+    {' '}
+  </Router>
+);
+
+App.displayName = 'App';
 
 export default App;
