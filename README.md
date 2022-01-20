@@ -16,7 +16,7 @@ API
 
 ## Live Demo
 
-[link to bookstore](add-remove-bookstore.netlify.app)
+[link to bookstore](https://api-bookstore.netlify.app/)
 
 
 To get a local copy up and running follow these simple example steps.
