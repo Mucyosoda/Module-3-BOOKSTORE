@@ -10,11 +10,7 @@ webpack
 babelrc
 linter
 
-## Live Demo
-
-[link to Bookstore](https://relaxed-bartik-b47c93.netlify.app/)
-
-
+> ![screenshoot](./Appscreenshoot.PNG)
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
