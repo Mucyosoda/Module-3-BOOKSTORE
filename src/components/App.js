@@ -1,14 +1,9 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
 import {
   BrowserRouter as Router, Switch, Route, Link,
 } from 'react-router-dom';
-import { Provider } from 'react-redux';
-import store from './Redux/configureStore';
-import Books from './components/books';
-import Categories from './components/categories';
-
-import './index.css';
+import Books from './books';
+import Categories from './categories';
+import './App.css';
 
 function App() {
   return (
@@ -34,9 +29,4 @@ function App() {
   );
 }
 
-ReactDOM.render(
-  <Provider store={store}>
-    <App />
-  </Provider>,
-  document.getElementById('root'),
-);
+export default App;
