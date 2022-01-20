@@ -1,3 +1,4 @@
+// eslint-disable
 import React from 'react';
 import BookM, { deleteBook } from '../../redux/books/Book';
 import Book from './Book';

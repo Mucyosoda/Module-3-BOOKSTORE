@@ -1,3 +1,4 @@
+// eslint-disable
 import { addBook } from '../../redux/books/Book';
 
 const Form = () => {
