@@ -2,6 +2,7 @@
 
 This project will lay foundations for the Bookstore website.
 React and Redux app was built and set up routing using React Router.
+This app is able to add and delete book from book list buy click on delete button
 the project built-in :
 
 React
