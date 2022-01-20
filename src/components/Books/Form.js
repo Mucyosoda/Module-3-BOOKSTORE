@@ -1,4 +1,4 @@
-// eslint-disable
+// eslint-disable-next-line
 import { addBook } from '../../redux/books/Book';
 
 const Form = () => {

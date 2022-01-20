@@ -1,4 +1,3 @@
-// eslint-disable
 import React from 'react';
 // eslint-disable-next-line
 import BookM, { deleteBook } from '../../redux/books/Book';
