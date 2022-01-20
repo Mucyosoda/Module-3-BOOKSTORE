@@ -2,6 +2,7 @@
 
 This project will lay foundations for the Bookstore website.
 React and Redux app was built and set up routing using React Router.
+This app is able to add and delete books from the booklist by clicking on the delete button
 the project built-in :
 
 React
@@ -11,6 +12,12 @@ babelrc
 linter
 
 > ![screenshoot](./Appscreenshoot.PNG)
+
+## Live Demo
+
+[link to bookstore](add-remove-bookstore.netlify.app)
+
+
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
