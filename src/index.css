@@ -147,7 +147,6 @@ body {
 }
 
 .firstpart {
-  display: flex;
   flex-direction: column;
   align-items: self-start;
   justify-content: center;

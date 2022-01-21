@@ -2,7 +2,7 @@
 
 This project will lay foundations for the Bookstore website.
 React and Redux app was built and set up routing using React Router.
-This app is able to add and delete books from the booklist by clicking on the add newbook or delete button. Book can be stored on API and also delete from API
+This app is able to add and delete books from the booklist by clicking on the add new book or delete button. The book can be stored on API and also delete from API
 App styled according to recommended style in Zeplin
 the project built-in :
 
