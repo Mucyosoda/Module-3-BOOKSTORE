@@ -9,14 +9,14 @@ const Differentbooks = (prop) => {
     dispatch(removeBook(id));
   };
   return (
-    <div className="display-container">
-      <div className="firstpart">
+    <div className="display-container d-flex">
+      <div className="firstpart d-flex">
         <ul className="gotteninfo">
           <li className="catinput">{category}</li>
           <li className="titinput">{title}</li>
           <p className="myname">Author:Suzanne 10en</p>
         </ul>
-        <div className="lower-remove ">
+        <div className="lower-remove d-flex">
           <button className="removebtn" type="button">Comment</button>
           <p className="breakk">|</p>
           <button className="removebtn" type="button" onClick={() => removeBookFromStore(id)}>Remove</button>
@@ -24,7 +24,7 @@ const Differentbooks = (prop) => {
           <button className="removebtn" type="button">Edit</button>
         </div>
       </div>
-      <div className="loadsec">
+      <div className="loadsec d-flex">
         <span className="loadspin">
           <AiOutlineLoading3Quarters />
         </span>

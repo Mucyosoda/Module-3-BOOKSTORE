@@ -4,9 +4,9 @@ import { Link } from 'react-router-dom';
 
 const Nav = () => (
   <>
-    <nav className="navigation-bar">
+    <nav className="navigation-bar d-flex">
       <h1 className="main-heading">Bookstore CMs</h1>
-      <ul className="thelinks">
+      <ul className="thelinks d-flex">
         <li className="ho">
           <Link to="/" exact> BOOKS </Link>
         </li>

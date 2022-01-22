@@ -10,8 +10,11 @@ body {
   margin: 20px;
 }
 
-.navigation-bar {
+.d-flex {
   display: flex;
+}
+
+.navigation-bar {
   height: 5.938rem;
   margin: 0 0 2.375rem;
   background-color: rgb(253, 246, 246);
@@ -42,7 +45,6 @@ body {
 
 .thelinks {
   list-style-type: none;
-  display: flex;
   flex-direction: row;
   text-decoration: none;
   padding-top: 2rem;
@@ -125,13 +127,8 @@ body {
   padding-top: 4rem;
 }
 
-.form-container .inputt {
-  display: flex;
-}
-
 .lower-remove {
   color: rgb(6, 86, 233);
-  display: flex;
 }
 
 .removebtn {
@@ -174,7 +171,6 @@ body {
 }
 
 .display-container {
-  display: flex;
   flex-direction: row;
   justify-content: space-around;
   border: 1px solid grey;
@@ -192,10 +188,6 @@ body {
 
 .breakk {
   padding: 21px;
-}
-
-.loadsec {
-  display: flex;
 }
 
 .loadspin {
@@ -223,7 +215,6 @@ body {
 }
 
 .chapter-section {
-  display: flex;
   flex-direction: column;
   align-items: flex-start;
 }

@@ -24,7 +24,7 @@ const AddBook = () => {
   return (
     <form onSubmit={submitBookToStore} className="form-container">
       <p className="addtitle">ADD NEW BOOK</p>
-      <div className="inputt">
+      <div className="inputt d-flex">
         <input
           type="text"
           name="title"
